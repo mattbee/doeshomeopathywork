@@ -1,0 +1,24 @@
+{
+  "name": "doeshomeopathywork",
+  "version": "1.0.0",
+  "description": "Angular, TDD and Gulp learning exercise.",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbee/doeshomeopathywork.git"
+  },
+  "author": "Matt Bee (matt@todayishould.com)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/mattbee/doeshomeopathywork/issues"
+  },
+  "homepage": "https://github.com/mattbee/doeshomeopathywork#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp-sass": "^2.3.2",
+    "require-dir": "^0.3.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "doeshomeopathywork",
+  "homepage": "http://doeshomeopathywork.com",
+  "authors": [
+    "Matt Bee <matt@todayishould.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.8"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
